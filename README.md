@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Maria Bohorquez</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
-- 🔭 I’m currently working on **CAM-Walmart**
+- 🔭 I’m currently working on **Ceiba Software**
 
 - 🌱 I’m currently learning **Frameworks with Javascript.**
 
 - 👨‍💻 All of my projects are available at [https://mariaalejandrabm0703.github.io/Portfolio/](https://mariaalejandrabm0703.github.io/Portfolio/)
 
-- 💬 Ask me about **react, Nodejs and SQL.**
+- 💬 Ask me about **React, Nodejs and SQL.**
 
 - 📫 How to reach me **mariaalejandrabm0703@gmail.com**
 
