@@ -5,13 +5,9 @@
 
 - 🌱 I’m currently learning **Frameworks with Javascript.**
 
-- 👨‍💻 All of my projects are available at [https://mariaalejandrabm0703.github.io/Portfolio/](https://mariaalejandrabm0703.github.io/Portfolio/)
-
 - 💬 Ask me about **React, Nodejs and SQL.**
 
 - 📫 How to reach me **mariaalejandrabm0703@gmail.com**
-
-- 📄 Know about my experiences [https://mariaalejandrabm0703.github.io/Portfolio/about.html](https://mariaalejandrabm0703.github.io/Portfolio/about.html)
 
 - ⚡ Fun fact **https://twitter.com/MariaAl70556192**
 
