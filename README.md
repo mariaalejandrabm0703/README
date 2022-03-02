@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Frameworks with Javascript.**
 
-- 💬 Ask me about **React, Nodejs and SQL.**
+- 💬 Ask me about **React, Angular, Nodejs and Mongo or SQL.**
 
 - 📫 How to reach me **mariaalejandrabm0703@gmail.com**
 
-- ⚡ Fun fact **https://twitter.com/MariaAl70556192**
+- ⚡ Fun fact **https://twitter.com/MaraBohrquez19**
 
 
 <h3 align="left">Languages and Tools:</h3>
