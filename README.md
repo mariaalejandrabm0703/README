@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks with Javascript.**
 
-- 💬 Ask me about **React, Angular, Nodejs and Mongo or SQL.**
+- 💬 Ask me about **Reactjs, Angular, Vuejs, Nodejs and Mongo or SQL.**
 
 - 📫 How to reach me **mariaalejandrabm0703@gmail.com**
 
