@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **Reactjs, Angular, Vuejs, Nodejs and Mongo or SQL.**
 
+- My CV **https://cvmariabohorquez.super.site/**
+
 - 📫 How to reach me **mariaalejandrabm0703@gmail.com**
 
 - ⚡ Fun fact **https://twitter.com/MaraBohrquez19**
