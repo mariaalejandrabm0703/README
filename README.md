@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maria Bohorquez</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
-- 🔭 I’m currently working on **Ceiba Software**
+- 🔭 I’m currently working on **Mercado Libre**
 
-- 🌱 I’m currently learning **Frameworks with Javascript.**
+- 🌱 I’m currently learning and working **Frameworks with Javascript.**
 
 - 💬 Ask me about **Reactjs, Angular, Vuejs, Nodejs and Mongo or SQL.**
 
